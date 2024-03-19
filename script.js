@@ -1,1 +1,1 @@
-//your JS code here. If required.
+let input = document.querySelectorById("fname")
